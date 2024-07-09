@@ -21,7 +21,7 @@ const SummaryContainer = styled.div`
   }
 `;
 
-// Component to display a summary of a user's profile
+// Component to display a summary of a user's profile.
 const ProfileSummary = ({ profile }) => {
   return (
     <SummaryContainer>
